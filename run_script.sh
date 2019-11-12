@@ -2,7 +2,9 @@
 
 echo "Creating PostgreDB in local k8s cluster"
 
-kubectl apply -f /deployments/postgres.yaml
+kubectl apply -f deployments/postgres.yaml
+
+sleep 2;
 
 echo "Monitoring PostgreDB deployment"
 
@@ -22,7 +24,9 @@ docker build -t university/linuxcontainer:latest .
 
 echo "Deploying application in local k8s cluster"
 
-kubectl apply -f /deployment/app.yaml
+kubectl apply -f deployments/app.yaml
+
+sleep 2;
 
 pod=$(kubectl -n default get pods -o name | grep linux-containers)
 

@@ -39,7 +39,7 @@ public class PersonController {
 	
 	@DeleteMapping("/{name}")
 	public ResponseEntity<Person> deletePerson(@PathVariable String name){
-		personRepository.delete(new Person(name));
+		personRepository.deleteByName(name);
 		
 		return new ResponseEntity<Person>(HttpStatus.OK);
 	}
