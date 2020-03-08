@@ -1,0 +1,12 @@
+/Users/i508661/Projects/PS_1_Martin/UserLogin/bin/Debug/netcoreapp3.1/UserLogin
+/Users/i508661/Projects/PS_1_Martin/UserLogin/bin/Debug/netcoreapp3.1/UserLogin.deps.json
+/Users/i508661/Projects/PS_1_Martin/UserLogin/bin/Debug/netcoreapp3.1/UserLogin.runtimeconfig.json
+/Users/i508661/Projects/PS_1_Martin/UserLogin/bin/Debug/netcoreapp3.1/UserLogin.runtimeconfig.dev.json
+/Users/i508661/Projects/PS_1_Martin/UserLogin/bin/Debug/netcoreapp3.1/UserLogin.dll
+/Users/i508661/Projects/PS_1_Martin/UserLogin/bin/Debug/netcoreapp3.1/UserLogin.pdb
+/Users/i508661/Projects/PS_1_Martin/UserLogin/obj/Debug/netcoreapp3.1/UserLogin.csprojAssemblyReference.cache
+/Users/i508661/Projects/PS_1_Martin/UserLogin/obj/Debug/netcoreapp3.1/UserLogin.AssemblyInfoInputs.cache
+/Users/i508661/Projects/PS_1_Martin/UserLogin/obj/Debug/netcoreapp3.1/UserLogin.AssemblyInfo.cs
+/Users/i508661/Projects/PS_1_Martin/UserLogin/obj/Debug/netcoreapp3.1/UserLogin.dll
+/Users/i508661/Projects/PS_1_Martin/UserLogin/obj/Debug/netcoreapp3.1/UserLogin.pdb
+/Users/i508661/Projects/PS_1_Martin/UserLogin/bin/Debug/netcoreapp3.1/test.txt
